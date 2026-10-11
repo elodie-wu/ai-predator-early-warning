@@ -1,0 +1,14 @@
+# Image datasets
+data/processed/
+data/excluded/
+ 
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.pth
+*.pt
