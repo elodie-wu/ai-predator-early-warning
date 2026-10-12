@@ -1,7 +1,8 @@
 # Image datasets
 data/processed/
 data/excluded/
- 
+data/cache_224/
+
 # Python
 __pycache__/
 *.pyc
