@@ -1,0 +1,2 @@
+method,threshold,accuracy,precision,recall,f1,f2,true_negatives,false_alerts,missed_alerts,true_positives
+sum,0.45,0.9260772659732541,0.9306078536847767,0.9611111111111111,0.9456135556162886,0.9548515288663207,763,129,70,1730

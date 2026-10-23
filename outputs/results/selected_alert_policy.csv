@@ -1,0 +1,2 @@
+selection_split,selection_rule,method,score_column,threshold,validation_accuracy,validation_precision,validation_recall,validation_f1,validation_f2,validation_false_alerts,validation_missed_alerts
+validation,within_0.001_of_best_f1_then_recall_then_precision_then_lower_threshold,sum,sum_alert_score,0.45,0.9295546558704454,0.9308919078558772,0.9650949173300674,0.9476849067949489,0.9580547112462006,117,57
