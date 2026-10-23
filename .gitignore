@@ -2,7 +2,7 @@
 data/processed/
 data/excluded/
 data/cache_224/
-
+data/cache_1000/
 # Python
 __pycache__/
 *.pyc
