@@ -1,6 +1,7 @@
 # Image datasets
 data/processed/
 data/excluded/
+data/excluded_v2/
 data/cache_224/
 data/cache_1000/
 # Python

@@ -94,11 +94,11 @@ def load_inference_session(
     interim_data_dir = project_root / "data" / "interim"
     cache_data_dir = project_root / "data" / "cache_1000"
     outputs_dir = project_root / "outputs"
-    figures_dir = outputs_dir / "figures"
+    figures_dir = outputs_dir / "figures_v2"
     models_dir = outputs_dir / "models"
-    results_dir = outputs_dir / "results"
+    results_dir = outputs_dir / "results_v2"
     metadata_path = interim_data_dir / "final_clean_metadata.csv"
-    best_model_path = models_dir / "best_resnet18_high_res.pth"
+    best_model_path = models_dir / "best_resnet18_high_res_v2.pth"
 
     required_paths = {
         "metadata": metadata_path,
