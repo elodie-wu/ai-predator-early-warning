@@ -1,0 +1,3 @@
+night,alert_recall,n_alert,false_alert_rate,n_no_alert
+False,0.8227,361,0.0491,795
+True,0.9722,1439,0.56,100

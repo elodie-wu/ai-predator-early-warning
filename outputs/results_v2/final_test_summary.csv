@@ -1,0 +1,2 @@
+multiclass_accuracy,alert_method,alert_threshold,alert_accuracy,alert_precision,alert_recall,alert_f1,alert_f2,false_alerts,missed_alerts
+0.7038961038961039,sum,0.7,0.9261595547309833,0.9469570072585148,0.9422222222222222,0.9445836814257866,0.943165387609832,95,104
